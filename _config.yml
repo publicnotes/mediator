@@ -4,11 +4,11 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Public Notes"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   A note for the public.
 
-email: a-mail@mail.mail
+email: livebyaquartermile@gmail.com
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 float_logo: true # true, false (default)
@@ -16,8 +16,8 @@ float_logo: true # true, false (default)
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'David John'
+author: 'David John'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
