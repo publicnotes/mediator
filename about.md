@@ -4,14 +4,8 @@ title: About
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+The idea of this blog is to create a space for myself to seek answers to questions, from the freedom of the pressure to be right or worthy of recognition. Even seeking answers is an ambitious feat for this blog. I would consider 'Public Notes' a success if it at can at least help frame and record some questions that are worth pondering over. Regardless of the topic being history or technology, there are always interesting and important questions that slip through our mind, when engaged in passive contemplation. All I aspire to do, is to take a pause and actively filter and refine such questions. Then if time permits I may take a dig at answering them. However please don't consider it an obligation from my side to answer the questions raised in this blog. Not all questions are worth answering, but it's good to know such a question exists, since if not for you and me, there might be someone else for whom that question might open doors and bring meaning to life.
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
-
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Looking forward to write promptly and engage in a constructive discussing with the internet community.
+With Regards
+David John
