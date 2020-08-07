@@ -13,6 +13,9 @@ Setup Git Desktop so that images and a local development environment was setup. 
 
 Today I decided to look under the theme and figure out how the webpage works. The first new thing I identified was Shema.org. Since the webpage was a bit hard to digest I decided to watch <a href="https://www.youtube.com/watch?v=xQeRA-Ojq5c"> this video</a>
 
+However nothing good came from watching that video.
+So I decided to focus on what I need. I needed a navigation menu bar so that I can classify the content that I'm posting in this page. So I jumped to another <a href="https://youtu.be/35lZBO3XeDQ"> video</a>
+
 
 
 #Mediator Formats and CSS features
